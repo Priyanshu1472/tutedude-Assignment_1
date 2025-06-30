@@ -1,4 +1,4 @@
-🧮 Assignment-2 Counter Application
+🧮 Assignment-1 Counter Application
 A modern, interactive React application showcasing both Function Components and Class Components implementations of a counter, featuring beautiful animations and responsive design.
 🌟 Features
 
